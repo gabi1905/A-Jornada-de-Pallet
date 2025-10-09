@@ -15,7 +15,11 @@ color: black;
 padding: 20px;
 }
 .img01{
-
-    width: 80%;
+  width: 80%;
 }
-
+.passo{
+display: nome;
+}
+.passo.ativo{
+    display: block;
+}

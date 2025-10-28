@@ -1,4 +1,4 @@
-const avanca = document.querySelectorAll ('.bnt-proximo' )
+const avanca = document.querySelectorAll ('.btn-proximo' )
 console.log(avanca)
 
 avanca.forEach(button=> {
